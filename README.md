@@ -1,2 +1,0 @@
-# screenshots
-Screenshots of subscriptions
